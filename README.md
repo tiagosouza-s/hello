@@ -1,4 +1,5 @@
-# HarvardX CS50W - CS50's Web Programming with Python and JavaScript
+# HarvardX CS50W 
+## CS50's Web Programming with Python and JavaScript
 
 Aula sobre Git do curso CS50's Web Programming with Python and JavaScript na plataforma edX.
 
